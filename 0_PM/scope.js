@@ -1,12 +1,15 @@
-// Part 1:
-//  - What will print and why?
-//  - What will change if we delete line 5? Why?
-
-// Part 2:
-// - change to ES6 syntax
-
-// Part 3:
-// - modify so that it prints 1, 2, 2 in that order. Console.logs must stay in place.
+/**
+ * Part 1:
+ *    What will print and why?
+ *    What will change if we delete line 15? Why?
+ * 
+ * Part 2:
+ *    Change to ES6 syntax (use arrow functions and change var to let).
+ * 
+ * Part 3:
+ *    Modify the code so that it prints 1, 2, 2, in that order. Do not move
+ *        console logs.
+ */
 
 function x() {
   var a;
