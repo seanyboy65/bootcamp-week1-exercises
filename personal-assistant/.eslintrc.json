@@ -17,11 +17,13 @@
         "as-needed"
       ],
       "no-plusplus": 0,
-      "no-alert": 2,
-      "no-console": 2,
+      "no-alert": 0,
+      "no-console": 0,
       "import/prefer-default-export": 0,
       "react/jsx-filename-extension": [
         0
-      ]
+      ],
+      "react/prop-types": 0,
+      "react/jsx-props-no-spreading": 0
     }
   }

@@ -14,5 +14,5 @@ Array.prototype.reduce = function(fun, init) {
 const arr1 = [0, 1, 2, 3, 4];
 const arr2 = [3, -4, 134, 0.5, 7];
 
-assert(arr1.reduce(sum) === 10);
-assert(arr2.reduce(sum) === 140.5);
+assert(arr1.reduce(sum, 0) === 10);
+assert(arr2.reduce(sum, 0) === 140.5);

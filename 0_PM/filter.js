@@ -3,6 +3,7 @@ const assert = require('assert')
 /**
  * Complete the implementation below such that all elements of the array
  * that are not multiples of 7 are removed.
+ * HINT: You may need to use the typeof operator
  */
 
 // TODO
