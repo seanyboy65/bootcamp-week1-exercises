@@ -1,4 +1,4 @@
-# Week 0 Bootcamp Exercises
+# Week 1 Bootcamp Exercises
 
 Here are exercises to be completed during hacktime for the first week of the Bootcamp. See the README for each exercise for specific directions.
 
