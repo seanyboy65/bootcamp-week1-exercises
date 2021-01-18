@@ -10,6 +10,14 @@ const assert = require('assert')
  */
 
 const hasFalsyValue = obj => {
+  Object.values(obj).forEach(val =>{
+    if (typeof(val) === 'object' && hasFalsyValue(val)){
+      return true
+    } else if (!val){
+      return true
+    }
+  })
+  return false
 };
 
 const falsyObj = {

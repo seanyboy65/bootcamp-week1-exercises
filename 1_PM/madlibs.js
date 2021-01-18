@@ -10,9 +10,9 @@ const verb1 = ______
 
 Change thses values to generate a different story
 */
-
-const story = `
-**replace this with your story using a template string**
-`
+const name1 = 'Sean'
+const noun1 = 'rocks'
+const verb1 = 'run'
+const story = `${name1} likes to ${verb1} with ${noun1} until the sun goes down`
 
 console.log(story)

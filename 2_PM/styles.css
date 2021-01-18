@@ -1,0 +1,24 @@
+.backbutton {
+    margin: 50px;
+}
+.caption {
+    width: 100%;
+    margin:auto;
+}
+.header {
+    background-color: #4197EE;
+    border-style:solid;
+}
+.midlist {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    text-align: center;
+    background-color: #87CEEB;
+}
+img {
+    width: 400px;
+}
+
